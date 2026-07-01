@@ -20,6 +20,6 @@ jobs:
 
       - run: ls -la
 
-      - run: cat -n hello.py
+      - run: cat -n helo.py
 
-      - run: python hello.py
+      - run: python helo.py
